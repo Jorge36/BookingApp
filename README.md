@@ -5,8 +5,9 @@ I built an application to perform bookings for a restaurant.Then, I built a simp
 
 I add some screenshots of the website below.
 
-![alt_text](https://github.com/Jorge36/BookingApp/blob/8d8e0b518b29ded11b515dbd8408ebc51ea39a2a/WebSite/images/booking.png)
+![alt_text](https://github.com/Jorge36/BookingApp/blob/43475846aea2d3405fce37b329537c504831ea9c/WebSite/images/booking%20responsive.png)
 
-![alt_text](https://github.com/Jorge36/BookingApp/blob/8d8e0b518b29ded11b515dbd8408ebc51ea39a2a/WebSite/images/index.png)
+![alt_text](https://github.com/Jorge36/BookingApp/blob/43475846aea2d3405fce37b329537c504831ea9c/WebSite/images/index.png)
 
-![alt_text](https://github.com/Jorge36/BookingApp/blob/8d8e0b518b29ded11b515dbd8408ebc51ea39a2a/WebSite/images/signup.png)
+![alt_text](https://github.com/Jorge36/BookingApp/blob/43475846aea2d3405fce37b329537c504831ea9c/WebSite/images/signup%20responsive.png)
+
